@@ -86,7 +86,7 @@ body {
 
 .menu-icon {
     color: #CFCFCF;
-   
+
 }
 
 @media(max-width:768px) {
@@ -94,9 +94,10 @@ body {
         display: none;
 
     }
+
     .menu-icon {
         color: #CFCFCF;
-       
+
     }
 }
 
